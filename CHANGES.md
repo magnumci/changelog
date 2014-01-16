@@ -1,4 +1,4 @@
-# January 14, 2014
+### January 14, 2014
 
 - Fixed hipchat addon notifications. There was an issue with changed hipchat API endpoint.
 - Added support for hipchat message colors (green/red build messages)

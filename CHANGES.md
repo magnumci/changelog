@@ -1,3 +1,16 @@
+### January 20, 2014
+
+- Switch to PostgreSQL 3.0 for all project types
+- Deprecate node.js v0.6 support, only 0.8, 0.10 and 0.11 are supported now
+- Added MRI Ruby 2.1
+- Git is updated to 1.8.5.2
+- Subversion is updated to 1.7.9
+- Mercurial is updated to 2.8.2
+- Updated OpenJDK / JRE to 1.7
+- Added heroku toolbelt to all project images
+- Added QT dev libraries to all project images
+- Fixed issue with ImageMagick dev libraries, they were missing
+
 ### January 19, 2014
 
 - Added Heroku deployment integration

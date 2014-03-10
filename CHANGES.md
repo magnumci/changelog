@@ -1,3 +1,14 @@
+### March 9, 2014
+
+- Added "--expire" flag to "heroku pgbackups:capture" command to overwrite old backups
+- Fixed issue with invalid .magnum.yml YAML contents that triggers a successful build
+
+### February 28, 2014
+
+- Fixed issue with NPM self-signed certificate (http://blog.npmjs.org/post/78085451721/npms-self-signed-certificate-is-no-more)
+- Execute composer self-update on every build
+- Log composer update to dev/null
+
 ### January 20, 2014
 
 - Switch to PostgreSQL 3.0 for all project types

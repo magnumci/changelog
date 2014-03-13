@@ -1,3 +1,8 @@
+### March 10, 2014
+
+- Enabled brakeman security reports collection for ruby projects that use "brakeman" gem
+- Enabled experimental rails security reports pages for all ruby projects
+
 ### March 9, 2014
 
 - Added "--expire" flag to "heroku pgbackups:capture" command to overwrite old backups
